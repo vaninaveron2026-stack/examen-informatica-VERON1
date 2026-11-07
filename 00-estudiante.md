@@ -1,7 +1,7 @@
 # Datos del estudiante
 
-- **Apellido y nombre:**
-- **Tecnicatura:** (Higiene y Seguridad / Comercio Exterior / Marketing Digital / Seguros / Administración de Empresas)
-- **Cohorte / turno:**
-- **Fecha:**
-- **Consigna que desarrollo:** `consignas/` + nombre del archivo
+- **Apellido y nombre:** Verón Vanina
+- **Tecnicatura:** (Higiene y Seguridad )
+- **Cohorte / turno:** intensivo
+- **Fecha:** 07/11/2026
+- **Consigna que desarrollo:** `coignas/` + nombre del archivo
